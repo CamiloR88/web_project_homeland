@@ -1,0 +1,9 @@
+@font-face {
+  src: url("../vendor/font.css") format(woff);
+}
+.page {
+  display: block;
+  margin: auto;
+  max-width: 1280px;
+  font-family: "inter", sans-serif;
+}

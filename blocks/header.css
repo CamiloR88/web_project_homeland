@@ -1,0 +1,16 @@
+.header {
+}
+.header__logo {
+  display: block;
+}
+.header__logo_svg {
+  margin: auto;
+  padding-top: 32px;
+}
+
+@media screen and (max-width: 400px) {
+  .header__logo {
+    max-width: 220px;
+    margin: auto;
+  }
+}

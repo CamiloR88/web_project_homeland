@@ -1,0 +1,15 @@
+.photo-grid {
+  max-width: 1184px;
+  margin: auto;
+  padding-top: 118px;
+}
+.photo-grid__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 16px;
+}
+.photo-grid__container_photo {
+  width: 284px;
+  height: 213px;
+}
