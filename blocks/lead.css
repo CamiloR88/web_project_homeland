@@ -38,7 +38,7 @@
   transition: min-height 0.3s ease;
 }
 
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1220px) {
   .lead__title {
     max-width: 530px;
     font-size: 75px;
