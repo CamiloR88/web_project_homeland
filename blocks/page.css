@@ -1,5 +1,5 @@
 @font-face {
-  src: url("../vendor/font.css") format(woff);
+  src: url("../vendor/fonts.css") format(woff);
 }
 .page {
   display: block;
