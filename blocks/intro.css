@@ -42,7 +42,7 @@
   margin: 0;
   transition: font-size 0.3s ease;
 }
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1024px) {
   intro {
     max-width: 720px;
   }
@@ -61,7 +61,7 @@
   }
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 544px) {
   .intro {
     max-width: 288px;
   }
