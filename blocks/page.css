@@ -1,9 +1,19 @@
 @font-face {
-  src: url("../vendor/fonts.css") format(woff);
+  font-family: "inter";
+  src: url("../vendor/fonts/Inter-Regular.woff2") format(woff);
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face {
+  font-family: "inter";
+  src: url("../vendor/fonts/Inter-Bold.woff2") format(woff);
+  font-weight: bold;
+  font-style: normal;
+}
+
 .page {
   display: block;
   margin: auto;
-  max-width: 1280px;
+  max-width: 100%;
   background-color: #2a2c2f;
 }

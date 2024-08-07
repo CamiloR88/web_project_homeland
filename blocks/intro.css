@@ -7,6 +7,7 @@
 .intro__title {
   max-width: 984px;
   color: #fff;
+  font-family: "inter";
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
@@ -20,6 +21,7 @@
   font-weight: 400;
   line-height: 34px;
   color: #fff;
+  font-family: "inter";
   padding-top: 40px;
   margin: 0;
   position: relative;
@@ -35,6 +37,7 @@
 .intro__text-small {
   max-width: 720px;
   color: #fff;
+  font-family: "inter";
   font-size: 16px;
   font-weight: 400;
   line-height: 28.08px;
