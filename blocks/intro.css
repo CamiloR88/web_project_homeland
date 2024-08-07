@@ -46,7 +46,7 @@
   transition: font-size 0.3s ease;
 }
 @media screen and (max-width: 1024px) {
-  intro {
+  .intro {
     max-width: 720px;
   }
   .intro__title {
@@ -75,6 +75,9 @@
   .intro__text-medium {
     font-size: 24px;
     line-height: 30px;
+  }
+  .intro__author {
+    bottom: -35px;
   }
   .intro__text-small {
     font-size: 16px;
