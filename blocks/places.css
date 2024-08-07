@@ -15,6 +15,7 @@
 .place__title {
   max-width: 460px;
   font-size: 72px;
+  font-family: "inter";
   font-weight: 900;
   line-height: 76px;
   margin: 0;
@@ -28,6 +29,7 @@
 }
 .website__artist {
   max-width: 58px;
+  font-family: "inter";
   font-weight: 400;
   font-size: 12px;
   line-height: 14.52px;
@@ -36,6 +38,7 @@
 }
 .website__name-charge {
   max-width: 456px;
+  font-family: "inter";
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -54,6 +57,7 @@
   color: #fff;
 }
 .description__text {
+  font-family: "inter";
   font-weight: 400;
   font-size: 18px;
   line-height: 29.34px;
@@ -70,6 +74,7 @@
   border-radius: 4px;
   background-color: #0278fe;
   color: #fff;
+  font-family: "inter";
   border: none;
   grid-column: 1/2;
   grid-row: 3/4;
