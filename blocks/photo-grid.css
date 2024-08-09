@@ -14,7 +14,7 @@
   min-height: 213px;
   transition: min-height 0.3s ease;
 }
-@media screen and (max-width: 1220px) {
+@media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: 720px;
   }
@@ -29,7 +29,7 @@
   }
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 544px) {
   .photo-grid {
     max-width: 288px;
     margin: auto;
