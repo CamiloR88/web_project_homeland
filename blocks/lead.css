@@ -37,6 +37,7 @@
   filter: grayscale(1);
   width: 100%;
   object-fit: cover;
+  box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 5px 0px;
   transition: min-height 0.3s ease;
 }
 
