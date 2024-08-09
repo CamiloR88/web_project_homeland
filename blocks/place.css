@@ -22,7 +22,7 @@
   min-height: 460px;
   padding-top: 48px;
   transition: min-height 0.3s ease;
-  box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 5px 0px;
+  box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 25px 0px;
 }
 .place__image:hover {
   opacity: 0.8;
@@ -39,7 +39,7 @@
   color: #fff;
   font-family: "inter";
   border: none;
-  box-shadow: rgba(0, 0, 0, 0.5) 5px 5px 5px 0px;
+  box-shadow: rgba(0, 0, 0, 0.5) 5px 5px 10px 0px;
   grid-column: 1/2;
   grid-row: 3/4;
 }
