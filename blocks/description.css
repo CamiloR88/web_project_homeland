@@ -1,0 +1,37 @@
+.description {
+  grid-column: 2/3;
+  grid-row: 2/4;
+  color: #fff;
+}
+.description__text {
+  font-family: "inter";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29.34px;
+  margin: 0;
+  padding-top: 25px;
+}
+.description__text:first-of-type {
+  padding-top: 48px;
+}
+@media screen and (max-width: 1024px) {
+  .description {
+    max-width: 352px;
+    grid-column: 2/3;
+    grid-row: 2/4;
+  }
+  .description__text {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .description {
+    max-width: 320px;
+    grid-column: 1/2;
+    grid-row: 4/5;
+  }
+  .description__text:first-of-type {
+    padding-top: 0px;
+  }
+}
